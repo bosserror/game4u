@@ -1,12 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update appID="TestApp"> 
-        <version>3.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/bosserror/game4u/master/TestApp.exe</url> 
-        <fileName>TestApp.exe</fileName> 
-        <md5>0bd80909ddb4e8432ddbabcc4181be04</md5>
+    <update appID="Game4U"> 
+        <version>2.0.0.0</version> 
+        <url>https://github.com/bosserror/game4u/raw/master/Game4U.exe</url> 
+        <fileName>Game4U.exe</fileName> 
+        <md5>97766813da2703013b05dc0e554badf7</md5>
         <description>Update: 06/19/2014:
-        1. อัพเดตโปรแกรม.</description> 
+        1. Added notification message when the current version is already the latest.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
